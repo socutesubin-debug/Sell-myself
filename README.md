@@ -21,13 +21,13 @@
     experience-bank.md             경험 은행 양식
     output-cover-letter.md         자소서 결과 문서 양식
     output-portfolio.md            설명글 결과 문서 양식
-me/experience-bank.md              내 경험 은행 (직접 채운다)
-작성본/                            결과 문서가 저장되는 곳
+me/experience-bank.md              내 경험 은행 (직접 채운다, .gitignore로 git에 안 올라감)
+작성본/                            결과 문서가 저장되는 곳 (.gitignore로 git에 안 올라감)
 ```
 
 ## 쓰는 법
 
-1. `me/experience-bank.md`에 경험을 메모하듯 적는다. 빈칸이 있어도 된다.
+1. `me/experience-bank.md`에 경험을 메모하듯 적는다. 빈칸이 있어도 된다. 없으면 `templates/experience-bank.md`를 복사해서 만든다.
 2. 이 레포에서 Claude Code를 열고 말한다.
    - "○○회사 UX 디자이너 자소서. 문항: (붙여넣기) 각 700자 공백 포함"
    - "기본 문항 Q1, Q5, Q8로 자소서 써줘"
