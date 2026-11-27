@@ -4,3 +4,4 @@ me/
 !작성본/**/
 !작성본/**/.gitkeep
 dist/
+__pycache__/

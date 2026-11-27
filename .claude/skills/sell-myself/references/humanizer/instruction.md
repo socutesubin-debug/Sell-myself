@@ -1,4 +1,4 @@
-<!-- 출처: NomaDamas/k-skill korean-humanizer/instruction.md (MIT), commit c41a117 그대로 복사. 이 폴더에서는 패턴 전체 표가 같은 폴더의 ai-tell-taxonomy.md 에 있다(npx 명령 대신 그 파일을 읽는다). 글자수는 ../../scripts/count.js 로 센다. -->
+<!-- 출처: NomaDamas/k-skill korean-humanizer/instruction.md (MIT), commit c41a117 그대로 복사. 이 폴더에서는 패턴 전체 표가 같은 폴더의 ai-tell-taxonomy.md 에 있다(npx 명령 대신 그 파일을 읽는다). 글자수는 ../../scripts/count.py 로 센다. -->
 
 # Korean Humanizer: AI 한국어 글 흔적 지우기
 
